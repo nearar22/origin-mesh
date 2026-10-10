@@ -1,0 +1,20 @@
+{
+  "network": "GenLayer Studio Next",
+  "chainId": 61997,
+  "contractAddress": "0x40cf1a0C4a734F9265D81beD5E307a8c16bC9411",
+  "deploymentTransaction": "0x6fa2fe7132e75fcfb7a20ac5f5acd064dc8cf0d3aef8e065c4bfd4daadc1d420",
+  "sourceSha256": "c4b5f7cdcb0ad11acc3b89b307b67ae22f487d96f414a08ae4ef03afc1849dfb",
+  "sourceMatch": true,
+  "smokeStudy": "origin-demo-mv2lscu4",
+  "smokeOutcome": "INDEPENDENT",
+  "smokeIndependentRoots": 2,
+  "smokeTransactions": {
+    "create": "0x39eda343b6012430441327cadaa9d5cf85bb71b1b42310af2183fa2be99e5079",
+    "addSourceA": "0xbc1bf0de770aaa81151ee67b595f5db5ca7c13ef12cfcac4e900012e75726af2",
+    "addSourceB": "0xe826c2ff9175245a961c9b75841e41f15327c1d07d06f269b9ab8109709dcbe0",
+    "addSourceC": "0x44a602763c941572bf26569ea603eb95498407ef041dca0fe64e66d212b25b84",
+    "seal": "0x59d56a8728302ec61449d33ed6fa93e492fa16aae162d5a37d8c9302ed823d02",
+    "audit": "0xb89354cef0cb0786ba419e8b29b8c5eb0d7052cb3e0a267fac7bb527bd00d9f4",
+    "finalize": "0x4c3ad9d15c8f3f686aa166729a2b3db6db70392ecb6d7563aa3f8ab962e7bde6"
+  }
+}

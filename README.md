@@ -21,3 +21,13 @@ genvm-lint lint contracts/origin_mesh.py --json
 ```
 
 The files under `docs/` are operator-created smoke fixtures, not independent authorities. The contract targets GenLayer Studio Next, chain `61997`.
+
+## Live deployment
+
+- Contract: `0x40cf1a0C4a734F9265D81beD5E307a8c16bC9411`
+- Network: GenLayer Studio Next (`61997`)
+- Exact deployed-source match: `true`
+- Completed smoke study: `origin-demo-mv2lscu4`
+- Stored outcome: `INDEPENDENT` with `2` independent roots
+
+Every deployment and smoke transaction is recorded in `deployment.json` so reviewers can reproduce the evidence without trusting this summary.
