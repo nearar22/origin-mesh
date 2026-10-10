@@ -1,0 +1,1 @@
+The city transport office published a primary count of 128 electric buses entering service in April. The report identifies fleet records and depot logs as its direct evidence. This operator-created fixture represents an original public report for testing source-lineage analysis.
